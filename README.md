@@ -1,3 +1,15 @@
+# Sobre
+Projeto desenvolvido como trabalho de faculdade, baseado em um jogo criado por mim e um amigo no ensino medio que é jogado usando um D20
+## Regras
+<ul>
+  <li>Cada turno consiste em um ataque, uma defesa e um possível ataque</li>
+  <li>O primeiro jogador rola um dado D20 e o valor que sair será seu ataque</li>
+  <li>O segundo jogador rola um dado D20 e o valor que sair será sua defesa</li>
+  <li>Caso a defesa foi maior que o ataque o turno é encerrado</li>
+  <li>Caso o ataque for maior que a defesa o jogador atacante rola o dado D20 novamente, o valor que sair será o dano infligido a vida do oponente e o turno é encerrado</li>
+  <li>Vence aquele que zerar a vida do oponente primeiro, não é necessário que a vida fique exatamente zero</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
